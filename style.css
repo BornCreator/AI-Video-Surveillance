@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    margin:0px ;
+    width: 100%;
+    font-size: xx-large;
+}
+#syaty,#status,#numberOfObjects{
+    font-size: larger;
+}
+#copyRightFooter{
+    position: fixed;
+    bottom:0px;
+    text-align: center;
+    background-color:whitesmoke;
+    color:black;
+    width:100%;
+    line-height: 3;
+}
+canvas{
+    border:5px black ridge;
+    border-radius:10px;
+    box-shadow:5px 5px 10px black;
+    margin-top:80px;
+}
